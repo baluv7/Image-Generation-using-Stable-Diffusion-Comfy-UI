@@ -8,16 +8,21 @@ Optimized Performance: Faster processing with advanced samplers and CUDA GPU sup
 Customizable Parameters: Adjust settings for better output control.
 
 🛠️ Installation & Setup
+
 Prerequisites
-Hardware Requirements
+
+Hardware Requirements :
+
 CPU: Modern multi-core processor (Intel/AMD).
 RAM: 8GB or higher.
 GPU (Recommended): NVIDIA GPU with ≥4GB VRAM for accelerated performance.
-Software Requirements
+Software Requirements :
+
 ComfyUI: Download ComfyUI (https://github.com/comfyanonymous/ComfyUI)
 Stable Diffusion Model: Download v1-5-pruned-emaonly-fp16.safetensors (https://huggingface.co/Comfy-Org/stable-diffusion-v15-archive/blob/main/v1-5-pruned-emaonly-fp16.safetensors)
 
 🚀 Getting Started
+
 Step 1: Extract ComfyUI
 Download the ComfyUI_windows_portable.zip file from the ComfyUI GitHub. (https://github.com/comfyanonymous/ComfyUI)
 Extract the ZIP file to a folder of your choice.
